@@ -1,3 +1,6 @@
+////LoggingObserver implementation
+
+
 #include "LoggingObserver.h"
 #include <vector>
 #include <iostream>
