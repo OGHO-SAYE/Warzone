@@ -1,4 +1,4 @@
-#COMP 345 Group Project README
+**#COMP 345 Group Project README
 Project Overview
 Welcome to our COMP 345 group project, a simulation of the online game WarZone.com! This project delves into the world of C++ programming, utilizing Object-Oriented Programming (OOP), pointer objects, memory management, and various data structures, including graphs. To enhance the project's architecture, we've implemented behavioral design patterns such as Observer and Strategy.
 
