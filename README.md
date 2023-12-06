@@ -1,9 +1,9 @@
-**#COMP 345 Group Project README
-Project Overview
+**#COMP 345 Group Project README**
+**Project Overview**
 Welcome to our COMP 345 group project, a simulation of the online game WarZone.com! This project delves into the world of C++ programming, utilizing Object-Oriented Programming (OOP), pointer objects, memory management, and various data structures, including graphs. To enhance the project's architecture, we've implemented behavioral design patterns such as Observer and Strategy.
 
 
-Project Description
+**Project Description**
 Our project is a simulation of the popular online game WarZone.com, aiming to replicate its gameplay dynamics and strategies. We've chosen C++ as our language of choice to leverage its powerful features for game development. The project involves the creation of an intelligent system that manages player interactions, strategic decision-making, and dynamic updates to the game state.
 
 Key Concepts and Technologies Used
@@ -16,7 +16,7 @@ Given the dynamic nature of the game, we've utilized pointer objects and impleme
 Data Structures - Graphs
 Graphs play a crucial role in representing complex relationships within the game, such as alliances, territories, and player connections. Our implementation of graph data structures facilitates efficient management and traversal of these relationships.
 
-Behavioral Design Patterns
+**Behavioral Design Patterns**
 Observer Pattern
 The Observer pattern is employed to establish a communication mechanism between game entities. This allows various components to be notified of state changes, enhancing the responsiveness and interactivity of the simulated WarZone.com environment.
 
