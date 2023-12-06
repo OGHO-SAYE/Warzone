@@ -1,0 +1,27 @@
+GameEngine State: start
+GameEngine State: map_loaded
+GameEngine State: map_validated
+GameEngine State: players_added
+GameEngine State: assign_reinforcement
+GameEngine State: issue_orders
+GameEngine State: execute_orders
+Command issued: loadmap<Europe>
+Inserted previous command into the list.
+Command issued: validatemap
+Inserted previous command into the list.
+Command issued: addplayer<p1>
+Inserted previous command into the list.
+Command issued: gamestart
+Inserted previous command into the list.
+Command issued: gameend
+Inserted previous command into the list.
+Command issued: quit
+Inserted previous command into the list.
+Order effect: advance
+Order effect: advance
+Order effect: negotiate
+Order effect: advance
+Order effect: blockade
+Inserted order advance into list.
+Inserted order negotiate into list.
+Inserted order blockade into list.

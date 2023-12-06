@@ -1,0 +1,6 @@
+loadmap Europe
+validatemap
+addplayer p1
+gamestart
+gameend
+quit
